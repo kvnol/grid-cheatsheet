@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/kvnol/grid-cheatsheet/issues"
   },
-  "homepage": "https://github.com/kvnol/grid-cheatsheet#readme"
+  "homepage": "https://github.com/kvnol/grid-cheatsheet#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-cli": "^1.2.2",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  }
 }
