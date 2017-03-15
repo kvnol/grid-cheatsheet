@@ -1,0 +1,19 @@
+{
+  "name": "grid-cheatsheet",
+  "version": "1.0.0",
+  "description": "CSS Grid Layout cheatsheet",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnol/grid-cheatsheet.git"
+  },
+  "author": "Kevin Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvnol/grid-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/kvnol/grid-cheatsheet#readme"
+}
